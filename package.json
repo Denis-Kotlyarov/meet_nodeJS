@@ -1,0 +1,11 @@
+{
+  "name": "easy_script",
+  "version": "1.0.0",
+  "description": "First node js programm",
+  "main": "first_script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Denis",
+  "license": "ISC"
+}
